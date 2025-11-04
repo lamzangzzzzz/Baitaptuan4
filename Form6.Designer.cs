@@ -1,6 +1,6 @@
 ﻿namespace Baitaptuan4
 {
-    partial class Form6
+    partial class LocSP
     {
         /// <summary>
         /// Required designer variable.
@@ -51,14 +51,14 @@
             this.dgSanPham.Size = new System.Drawing.Size(471, 295);
             this.dgSanPham.TabIndex = 1;
             // 
-            // Form6
+            // LocSP
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.dgSanPham);
             this.Controls.Add(this.trvLoaiSanPham);
-            this.Name = "Form6";
+            this.Name = "LocSP";
             this.Text = "TreeView và DataGridView";
             this.Load += new System.EventHandler(this.Form6_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgSanPham)).EndInit();

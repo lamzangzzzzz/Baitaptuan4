@@ -1,6 +1,6 @@
 ﻿namespace Baitaptuan4
 {
-    partial class Form8
+    partial class QuanLySP
     {
         /// <summary>
         /// Required designer variable.
@@ -178,7 +178,7 @@
             this.btXoa.UseVisualStyleBackColor = true;
             this.btXoa.Click += new System.EventHandler(this.btXoa_Click);
             // 
-            // Form8
+            // QuanLySP
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -198,7 +198,7 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Name = "Form8";
+            this.Name = "QuanLySP";
             this.Text = "QuanLySanPham_Form";
             this.Load += new System.EventHandler(this.QuanLySanPham_Form_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgSanPham)).EndInit();

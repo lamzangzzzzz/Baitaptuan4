@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace Baitaptuan4
 {
-    public partial class Form8 : Form
+    public partial class QuanLySP : Form
     {
-        public Form8()
+        public QuanLySP()
         {
             InitializeComponent();
         }

@@ -11,9 +11,9 @@ using System.Data.SqlClient;
 
 namespace Baitaptuan4
 {
-    public partial class Form6 : Form
+    public partial class LocSP : Form
     {
-        public Form6()
+        public LocSP()
         {
             InitializeComponent();
         }

@@ -1,6 +1,6 @@
 ﻿namespace Baitaptuan4
 {
-    partial class Form4
+    partial class XemDMSP
     {
         /// <summary>
         /// Required designer variable.
@@ -82,7 +82,7 @@
             this.label2.TabIndex = 4;
             this.label2.Text = "Kết quả";
             // 
-            // Form4
+            // XemDMSP
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -92,7 +92,7 @@
             this.Controls.Add(this.txtKeyWord);
             this.Controls.Add(this.dgSanPham);
             this.Controls.Add(this.label1);
-            this.Name = "Form4";
+            this.Name = "XemDMSP";
             this.Text = "Search";
             this.Load += new System.EventHandler(this.Form4_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgSanPham)).EndInit();

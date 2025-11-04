@@ -1,6 +1,6 @@
 ﻿namespace Baitaptuan4
 {
-    partial class Form7
+    partial class Phantrang
     {
         /// <summary>
         /// Required designer variable.
@@ -166,7 +166,7 @@
             this.btLast.UseVisualStyleBackColor = true;
             this.btLast.Click += new System.EventHandler(this.btLast_Click);
             // 
-            // Form7
+            // Phantrang
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -185,7 +185,7 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Name = "Form7";
+            this.Name = "Phantrang";
             this.Text = "PhanTrang";
             this.Load += new System.EventHandler(this.Form7_Load);
             this.ResumeLayout(false);

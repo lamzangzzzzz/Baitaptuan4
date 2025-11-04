@@ -1,6 +1,6 @@
 ﻿namespace Baitaptuan4
 {
-    partial class Form5
+    partial class TimKiemSP
     {
         /// <summary>
         /// Required designer variable.
@@ -85,7 +85,7 @@
             this.dgSanPham.Size = new System.Drawing.Size(776, 309);
             this.dgSanPham.TabIndex = 4;
             // 
-            // Form5
+            // TimKiemSP
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -95,7 +95,7 @@
             this.Controls.Add(this.btLoc);
             this.Controls.Add(this.cboLoaiSP);
             this.Controls.Add(this.label1);
-            this.Name = "Form5";
+            this.Name = "TimKiemSP";
             this.Text = "Filter";
             this.Load += new System.EventHandler(this.Form5_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgSanPham)).EndInit();

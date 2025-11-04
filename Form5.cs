@@ -11,9 +11,9 @@ using System.Data.SqlClient;
 
 namespace Baitaptuan4
 {
-    public partial class Form5 : Form
+    public partial class TimKiemSP : Form
     {
-        public Form5()
+        public TimKiemSP()
         {
             InitializeComponent();
         }

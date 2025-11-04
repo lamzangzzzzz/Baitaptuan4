@@ -11,9 +11,9 @@ using System.Data.SqlClient;
 
 namespace Baitaptuan4
 {
-    public partial class Form7 : Form
+    public partial class Phantrang : Form
     {
-        public Form7()
+        public Phantrang()
         {
             InitializeComponent();
         }

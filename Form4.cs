@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace Baitaptuan4
 {
-    public partial class Form4 : Form
+    public partial class XemDMSP : Form
     {
-        public Form4()
+        public XemDMSP()
         {
             InitializeComponent();
         }
